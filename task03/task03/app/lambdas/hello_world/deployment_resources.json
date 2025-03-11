@@ -1,0 +1,12 @@
+{
+  "hello_world-role": {
+    "predefined_policies": [],
+    "principal_service": "lambda",
+    "custom_policies": [
+      "lambda-basic-execution"
+    ],
+    "enable_proxy": true,
+    "resource_type": "iam_role",
+    "tags": {}
+  }
+}
