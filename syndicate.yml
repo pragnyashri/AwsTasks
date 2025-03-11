@@ -1,0 +1,16 @@
+account_id: '196241772369'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-sbox01/c91e8c99/task03
+expiration: 2025-03-07 07:36:53.205226+00:00
+extended_prefix_mode: true
+iam_permissions_boundary: arn:aws:iam::196241772369:policy/eo_role_boundary
+project_path: C:\Users\matsa_bhargav\Desktop\lambda\Lambda\task03
+region: eu-central-1
+resources_prefix: cmtr-c91e8c99-
+tags:
+  run_id: JAP-08
+  run_type: stm
+  type: user
+  user_id: c91e8c99
+
+
+
